@@ -1,0 +1,58 @@
+body
+{
+    text-align:center;
+    background: rgb(96,63,251);
+background: radial-gradient(circle, rgba(96,63,251,1) 0%, rgba(66,148,251,1) 60%, rgba(70,204,252,1) 100%);
+}
+
+
+img
+{
+    border-radius:100%;
+}
+
+div
+{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color:lightblue
+}
+
+span
+{
+    font-size: 40px;
+    color:aliceblue
+}
+
+ #bio
+{
+    color:lightblue
+}
+
+#line
+{
+    height:3px;
+    background-color: aliceblue;
+        width:1175px;
+    margin:8px, auto;
+}
+
+.link
+{
+    float:left;
+    Padding-left:10px;
+    Padding-right:10px;
+    padding-top:5px;
+    font-family:'Zen Tokyo Zoo', cursive;
+    Color:lightblue;
+}
+
+
+.menu
+{
+    margin-left:300px;
+}
+
+.link:hover
+{
+    background-color: mediumblue;
+}
